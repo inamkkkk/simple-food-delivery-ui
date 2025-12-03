@@ -1,0 +1,19 @@
+# Flutter generated files
+.dart_tool/
+.idea/
+*.iml
+.metadata
+android/build/
+ios/Pods/
+ios/.symlinks/
+ios/Frameworks/
+build/
+*.apk
+*.ipa
+packages/
+.DS_Store
+# Editor related
+.vscode/
+
+# Miscellaneous
+.env
